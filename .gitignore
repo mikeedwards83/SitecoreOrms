@@ -1,0 +1,14 @@
+Source/Orm.Cig/obj/
+Source/Orm.CorePoint/obj/
+Source/Orm.Fortis/obj/
+Source/Orm.Glass/obj/
+Source/Orm.Synthesis/obj/
+Source/Orm.Diamond/obj/
+Source/Orm.Cig/bin/
+Source/Orm.CorePoint/bin/
+Source/Orm.Fortis/bin/
+Source/Orm.Glass/bin/
+Source/Orm.Synthesis/bin/
+Source/Orm.Diamond/bin/
+*.csproj.user
+*.suo
