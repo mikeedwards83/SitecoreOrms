@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Synthesis.Core</id>
+    <version>7.0.0</version>
+    <authors>Kam Figy</authors>
+    <owners>Kam Figy</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/kamsar/Synthesis</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Synthesis is a universal object mapper with LINQ support for Sitecore 7 Update 1. This package contains only the core library, and is suitable for installing to class libraries. For installing to a web project, use the Synthesis package, which comes with configuration files as well.</description>
+    <releaseNotes>This release contains numerous bug fixes and upgrades to enhance testability and configuration</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>sitecore</tags>
+  </metadata>
+</package>
